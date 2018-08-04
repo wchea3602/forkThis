@@ -2,20 +2,20 @@
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### by Walter Cheatham, III
 
-### Description
+### Forkthis practice README
 
-Create a description and fill it in here.
+For Fullstack learning porpoises
 
 ## Languages used
 
 What languages were used for this repo:
-List them
+HTML
 
 ### Known Bugs
 
-Are there any? If so what are they?
+unknown
 
 ## License
 
